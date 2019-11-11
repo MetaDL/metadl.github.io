@@ -19,9 +19,8 @@ Among other research projects, the [Compiler Design Lab](http://compilers.cs.uni
 
 ![Logo of DFKI, German Research Center for Artificial Intelligence](images/DFKI-Logo.jpg){: style="width:200px"}
 
-The research department [Agents and Simulated Reality](https://www.dfki.de/web/forschung/forschungsbereiche-gruppen/agenten-und-simulierte-realitaet) at the German Research Center for Artificial Intelligence (DFKI) develops the AnyDSL framework with focus on acceleration of rendering applications using ray tracing and global illumination on multi-core CPUs, GPUs, and Xeon Phis.
+The research department [Agents and Simulated Reality](https://www.dfki.de/web/forschung/forschungsbereiche-gruppen/agenten-und-simulierte-realitaet) at the German Research Center for Artificial Intelligence (DFKI) develops the AnyDSL framework with focus on acceleration of rendering applications using ray tracing and global illumination on multi-core CPUs, GPUs, and FPGAs.
 
 ### [JGU Mainz, Scientific Computing and Bioinformatics](https://www.bio.informatik.uni-mainz.de)
 
 ### [JGU Mainz, High Performance Computing](https://www.hpc.informatik.uni-mainz.de)
-
