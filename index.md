@@ -1,5 +1,6 @@
 ---
-title: MetaDL - AI Lab for Metaprogramming in Deep Learning
+title: MetaDL
+description: AI Lab for Metaprogramming in Deep Learning
 keywords: homepage
 permalink: index.html
 toc: false
