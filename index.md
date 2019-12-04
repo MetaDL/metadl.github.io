@@ -3,6 +3,7 @@ title: MetaDL
 description: AI Lab for Metaprogramming in Deep Learning
 keywords: homepage
 permalink: index.html
+layout: metadl
 toc: false
 ---
 
